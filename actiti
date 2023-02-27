@@ -1,0 +1,6 @@
+All type of Locators
+
+driver.findElementBy.id
+
+driver.findElementBy.name
+driver.manage().window().maximaze()
